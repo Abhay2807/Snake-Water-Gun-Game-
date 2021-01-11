@@ -1,4 +1,4 @@
-# Snake,Water And Gun GAME  Or Rock Paper Scissors
+# Snake,Water And Gun GAME  
 
 import random
 
